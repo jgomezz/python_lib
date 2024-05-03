@@ -1,1 +1,1 @@
-# Procedimiento de instalacion de la libreria
+# Procedimiento de instalación de la libreria
