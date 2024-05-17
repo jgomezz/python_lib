@@ -1,0 +1,16 @@
+ 1028  pip install -e hello_world_lib
+ 1029  pip install -e .
+ 1030  pip install -e .
+ 1031  pip install -e .
+ 1032  pip install -e .
+ 1033  pip unistall .
+ 1034  pip uninstall .
+ 1035  pip uninstall hello_world_lib
+ 1036  pip install -e .
+ 1037  ls -al
+ 1038  cd hello_world_lib
+ 1039  ls
+ 1040  cd ..
+ 1041  python setup.py sdist bdist_wheel\n
+ 1042  pip install -e .
+ 1043  pip install .
