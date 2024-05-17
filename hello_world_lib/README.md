@@ -2,7 +2,6 @@
 
 ## Instalación de la libreria del servidor
 
-    - Modo normal  `pip install mylibrary`
-'''
-pip install hello_world_lib
-'''
+    - Modo normal  `pip install hello_world_lib`
+
+    - Modo editable  `pip install -e hello_world_lib`
